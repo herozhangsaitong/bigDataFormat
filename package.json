@@ -1,0 +1,8 @@
+{
+    "name": "big-data-formats",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "big head 包准备处理一些常见的数据开发格式转化 尽情期待...",
+    "keywords": ["bigHeadRoots", "big-head-roots", "format","bigHead"],
+    "license": "ISC"
+}
